@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles.css"; //Está ruta la corregí 
-import logo from "../../images/logo_AC.png";
+import logo from "../../images/logooo.jpg";
 
 function Final_Inicioadm() {
   return (
