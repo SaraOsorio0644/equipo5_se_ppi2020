@@ -13,7 +13,7 @@ function D_solicitudexitosa()
   
   </div>
 <div className="Imagen1">
-   <img src={Funcion} />
+   <img src="https://www.elmundo.com/assets/uploads/files/0eb20-1.jpg" />
 </div >
 </>
   )
