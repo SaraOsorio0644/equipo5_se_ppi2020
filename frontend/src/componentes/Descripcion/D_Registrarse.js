@@ -5,28 +5,23 @@ function D_Registro() {
   return(
   
   
-<form>
-  <div className="container">
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Nombre</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword"/>
+    <form> <div className= "container">
+    <div className="form-group">
+      <label htmlFor="exampleInputEmail1">Nombre</label>
+      <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+      <small id="emailHelp" className="form-text text-muted"></small>
     </div>
-  </div>
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Correo Eletrónico</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword"/>
+    <div className="form-group">
+      <label htmlFor="exampleInputEmail1">Correo electrónico</label>
+      <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
+      <small id="emailHelp" className="form-text text-muted"></small>
     </div>
-  </div>
-  
-  <div class="form-group row">
-    <label for="inputPassword" class="col-sm-2 col-form-label">Contraseña</label>
-    <div class="col-sm-10">
-      <input type="password" class="form-control" id="inputPassword"/>
+    <div className="form-group">
+      <label htmlFor="exampleInputPassword1">Contraseña</label>
+      <input type="password" className="form-control" id="exampleInputPassword1"/>
     </div>
-  </div>
-  </div>
+    </div>
+    
   <button type="button" class="Regresar
       "><Link className="Botones" to="Funcionusuario">
     Registrarse </Link>

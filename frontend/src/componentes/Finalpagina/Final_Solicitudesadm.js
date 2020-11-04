@@ -1,6 +1,6 @@
 import React from "react";
 import "../../styles.css"; //Está ruta la corregí 
-import logo from "../../images/logooo.jpg";
+
 function Final_Solicitudesadm() {
   return (
     <div> 
@@ -8,7 +8,8 @@ function Final_Solicitudesadm() {
         
      
         <div className="logo1">
-        <img src={logo} />
+          <img src="https://github.com/SaraYuliethOsorioHincapie/equipo5_se_ppi2020/blob/master/logo_AC.png?raw=true" />
+        <img src=""/>
       </div>
       <p className="Final_SolicitarServicio">5382978 ò 3013134050
         

@@ -1,11 +1,12 @@
 import React from "react";
 import "../../styles.css"; //Está ruta la corregí
-import logo from "../../images/logo_AC.png";
+
 function Final_Trabajadoresusuario() {
   return (
     <div>
       <div className="logo">
-        <img src={logo} />
+          <img src="https://github.com/SaraYuliethOsorioHincapie/equipo5_se_ppi2020/blob/master/logo_AC.png?raw=true" />
+        <img src="" />
       </div>
 
       <p className="Final_Valoracion2">5382978 ò 3013134050</p>
