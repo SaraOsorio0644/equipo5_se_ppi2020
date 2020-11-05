@@ -12,7 +12,7 @@ function D_Valoracion() {
 <button type="button" className="btn btn-warning">5</button>
 </div>
 <div className="Imagen1">
-<img src="https://davidlmedina.files.wordpress.com/2013/04/copia-santa-elena-1-187.jpg?w=1200" />
+<img src="https://www.elmundo.com/assets/uploads/files/0eb20-1.jpg" />
 </div>
 </>
   );
